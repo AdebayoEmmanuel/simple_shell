@@ -8,7 +8,7 @@ int main(int ac, char **av)
 {
 	char *cmd_str = NULL;
 	char **args = NULL;
-	
+
 	/*infinite loop to keep collecting command*/
 	while (1)
 	{
@@ -29,10 +29,10 @@ int main(int ac, char **av)
 		}
 	/*execute command*/
 	execve(/*command*/args[0],/*arguments*/args,/*env vairables*/NULL);
-	
+
 	 /*an error occured??*/
 	dprintf(STDERR_FILENO, "%s: Command not found\n", args[0]);
-	
+
 	if (ac > 1)
 		break;
 
