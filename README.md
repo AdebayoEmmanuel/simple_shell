@@ -1,6 +1,5 @@
 # simple_shell
 I am writing my own UNIX command line interpreter as part of doing hard things at ALX Africa
-# Mandalorian Simple Shell
 
 
 
