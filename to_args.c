@@ -28,7 +28,6 @@
  * add element to args array for every time there is
  * a str returned, the argument count also increases by 1
  *
- * args array should be null terminated
  *
  * Return: (args)
  **/
