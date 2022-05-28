@@ -34,11 +34,11 @@ This shell supports a variety of commands:
 `setenv` - sets an environment variable
 
 `unsetenv` - unsets an environment variable
-## Some of the commands won't work yet till next release
 
 ```
 SIMPLE_SHELL$ help <builtin command>
 ```
+## Some of the commands won't work yet till next release
 
 ### Compilation
 -----
