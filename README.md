@@ -1,7 +1,8 @@
 # simple_shell
 I am writing my own UNIX command line interpreter as part of doing hard things at ALX Africa
 
-
+## Quick start:
+Clone this repository to your local machine and run `./shell`
 
 ### Project details
 -----
